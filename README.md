@@ -19,4 +19,4 @@ This patch moves the music clock to the YM2612's Timer B. It alternates between 
 - **Sega / Sega Technical Institute** — original game.
 - **[Sonic Retro and contributors](https://github.com/sonicretro/kid-chameleon-disasm)** — disassembly.
 - **[Valley Bell](https://github.com/ValleyBell/GEMSPlay)** — GEMS source references used during development.
-- **ChatGPT-6.1 Sol was utilized in the creation of this patch.
+- ChatGPT-6.1 Sol was utilized in the creation of this patch.
