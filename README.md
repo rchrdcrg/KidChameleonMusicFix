@@ -1,6 +1,6 @@
-# Kid Chameleon — Tight Music
+# Kid Chameleon — Music Fix (NTSC)
 
-An experimental IPS patch that smooths out the music timing in the original Sega Genesis game.
+An IPS patch that smooths out the music timing in the original Sega Genesis game.
 
 ## What it fixes
 
